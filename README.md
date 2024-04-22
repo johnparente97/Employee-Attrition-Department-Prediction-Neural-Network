@@ -31,3 +31,8 @@ To explore the results:
 
 ## Conclusion:
 This project showcases the potential of neural networks in optimizing HR analytics. With its predictive capabilities, the model offers insights to enhance workforce management practices, contributing to organizational success. As we move forward, leveraging such data-driven approaches can lead to a brighter future for all.
+
+## Resources:
+- Module 19 Challenge Files
+- [Github Copilot](https://copilot.github.com/)
+- [ChatGPT](https://openai.com/chatgpt)
